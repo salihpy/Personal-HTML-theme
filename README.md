@@ -3,3 +3,5 @@
 <b>Dynamic and simple HTML personal page theme. Open source code.</b>
 <li>RESPONSİVE</li>
 <li>DARK MODE</li>
+<li>SEO FREND</li>
+
